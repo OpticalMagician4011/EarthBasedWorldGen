@@ -1,0 +1,5 @@
+VERSION: "0.1",
+NAME: "Earth Based World Generation",
+DESC: "New world generation heightmaps based on various real locations on the Earth.",
+AUTHOR: "OpticalMagician",
+INFO: "",
